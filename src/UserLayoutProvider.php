@@ -2,7 +2,9 @@
 
 namespace AliQasemzadeh\UserLayout;
 
-class UserLayoutProvider
+use Illuminate\Support\ServiceProvider;
+
+class UserLayoutProvider extends ServiceProvider
 {
 
 }
